@@ -13,3 +13,20 @@ A Python-based system to manage a grocery shop, including inventory management a
 - `inventory.py` — Manage products and stock
 - `billing.py` — Handle billing and receipts
 - `config.py` — Settings like tax rate
+
+# Grocery Shop Management System
+
+A Python-based system to manage a grocery shop.
+
+## Features
+- Add products
+- Generate bills
+
+## Sample Output
+=== Grocery Shop Management System ===
+
+Add Product
+Update Product
+View Inventory
+Generate Bill
+Exit
