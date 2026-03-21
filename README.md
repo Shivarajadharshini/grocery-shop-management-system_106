@@ -30,3 +30,13 @@ Update Product
 View Inventory
 Generate Bill
 Exit
+```
+===== BILL =====
+Product              Price      Quantity   Amount
+Apple                50         3          150
+Milk                 30         2          60
+
+Subtotal: 210.00
+Tax (5%): 10.50
+Grand Total: 220.50
+```
